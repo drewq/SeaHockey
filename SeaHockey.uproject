@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A4B34B6F-4BC3-D7F5-51A3-B284D34A0088}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SeaHockey",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
